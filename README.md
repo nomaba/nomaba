@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 | <a>Email</a> | nomanabaid@outlook.com | ⭐️⭐️⭐️ |
 
 
+| Contact | Response Rating x/5 |
+| --- | --- |
+| <a href="https://discord.com/users/338107857486610433">Discord</a> | ⭐️⭐️⭐️⭐️⭐️ |
+| <a href="mailto:airship.magical_0a@icloud.com?&subject=Inquiry &body=Hello! I emailed you! :) Hello from the mailto: tag!">Email</a> | ⭐️⭐️⭐️ |
+
+
 ---
 
 ⭐ Feel free to check out my repositories and follow my progress!
