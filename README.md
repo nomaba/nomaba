@@ -18,3 +18,68 @@ Here are some ideas to get you started:
 🔭 I'm currently working on a robot run on an arduino mega
 🌱 I can code in C# and ArduinoIDE
 📫 How to reach me: nomaba (discord)
+
+
+# Hi 👋 I'm Noman
+
+🎓 A-Level Computer Science, Maths & Design Technology student  
+💻 Interested in software development, embedded systems, and engineering  
+🚀 Always learning and building practical projects
+
+---
+
+## 🔧 Skills & Technologies
+
+- **Languages:**  
+  - C#  
+  - C++ (learning, embedded-focused)  
+  - Arduino / Embedded C  
+
+- **Software & Tools:**  
+  - Visual Studio  
+  - Arduino IDE  
+  - Git & GitHub  
+
+- **Hardware & Embedded:**  
+  - Microcontrollers  
+  - Sensors & actuators  
+  - Serial communication  
+
+---
+
+## 📂 Projects
+
+Here are some things I’ve worked on or am currently working on:
+
+- 🧠 **A-Level Computer Science NEA** – C# application with logic, data handling, and UI  
+- 🤖 **Embedded systems projects** – Arduino-based robots and timers  
+- 🛠 **Design & Technology coursework** – combining hardware and software  
+
+*(More projects coming soon)*
+
+---
+
+## 📈 What I’m Currently Learning
+
+- Advanced C# programming  
+- C++ for embedded systems  
+- Efficient algorithms and problem solving  
+- Hardware–software integration  
+
+---
+
+## 🎯 Goals
+
+- Build strong foundations for university-level computer science or engineering  
+- Create well-documented, practical projects  
+- Improve code quality, structure, and efficiency  
+
+---
+
+## 📫 Get in Touch
+
+- GitHub: [@NomanAbaid](https://github.com/NomanAbaid)
+
+---
+
+⭐ Feel free to check out my repositories and follow my progress!
