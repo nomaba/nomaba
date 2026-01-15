@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 | --- | --- | --- |
 | <a href="https://discord.com/users/549258718240309248">Discord</a> | @nomaba | ⭐️⭐️⭐️⭐️⭐️ |
 | <a>Email</a> | nomanabaid@outlook.com | ⭐️⭐️⭐️ |
-| <a>Phone</a> | +44 7444 246177 | ⭐️ |
+| <a>Phone</a> | Available on request | ⭐️ |
 
 ---
 
