@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 ## 🔧 Skills & Technologies
 
 - **Languages:**  
-  - C#  
-  - Arduino IDE (C/C++)
+  - C#
+  - Arduino (Embedded C / C++)
+
 
 - **Hardware & Embedded:**  
   - Microcontrollers  
