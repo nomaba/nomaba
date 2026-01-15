@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 # Hi 👋 I'm nomaba
 
 🎓 A-Level Computer Science, Maths & Design Technology student
+
 💻 Interested in software development, embedded systems, and engineering
+
 🚀 Always learning and building practical projects
+
 
 ---
 
