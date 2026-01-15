@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nomaba/nomaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm currently working on a robot run on an arduino mega
-🌱 I can code in C# and ArduinoIDE
-📫 How to reach me: nomaba (discord)
+# Hi 👋 I'm nomaba
 
-
-# Hi 👋 I'm Noman
-
-🎓 A-Level Computer Science, Maths & Design Technology student  
-💻 Interested in software development, embedded systems, and engineering  
+🎓 A-Level Computer Science, Maths & Design Technology student
+💻 Interested in software development, embedded systems, and engineering
 🚀 Always learning and building practical projects
 
 ---
