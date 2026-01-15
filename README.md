@@ -28,13 +28,7 @@ Here are some ideas to get you started:
 
 - **Languages:**  
   - C#  
-  - C++ (learning, embedded-focused)  
-  - Arduino / Embedded C  
-
-- **Software & Tools:**  
-  - Visual Studio  
-  - Arduino IDE  
-  - Git & GitHub  
+  - Arduino IDE (C/C++)
 
 - **Hardware & Embedded:**  
   - Microcontrollers  
@@ -56,7 +50,11 @@ Here are some ideas to get you started:
 
 ## 📫 Get in Touch
 
-- GitHub: [@NomanAbaid](https://github.com/NomanAbaid)
+| Contact | Response Rating x/5 |
+| --- | --- | --- |
+| <a href="https://discord.com/users/549258718240309248">Discord</a> | @nomaba | ⭐️⭐️⭐️⭐️⭐️ |
+| <a>Email</a> | nomanabaid@outlook.com | ⭐️⭐️⭐️ |
+
 
 ---
 
