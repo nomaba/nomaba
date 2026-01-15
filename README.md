@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋 I'm Nomaba
-> insert a funny phrase about me here
+> I write code that sometimes even works
 
 ---
 
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 💻 Interested in software development, embedded systems, and engineering
 
 🚀 Always learning and building practical projects
-
 
 ---
 
@@ -41,7 +40,6 @@ Here are some ideas to get you started:
 
 ---
 
-
 ## 📈 What I’m Currently Learning
 
 - Advanced C# programming  
@@ -50,7 +48,6 @@ Here are some ideas to get you started:
 - Hardware–software integration  
 
 ---
-
 
 ## 📫 Get in Touch
 
