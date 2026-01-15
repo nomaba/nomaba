@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋 I'm nomaba
+# Hi 👋 I'm Nomaba
+> insert a funny phrase about me here
+
+---
 
 🎓 A-Level Computer Science, Maths & Design Technology student
 
