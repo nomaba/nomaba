@@ -40,17 +40,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📂 Projects
-
-Here are some things I’ve worked on or am currently working on:
-
-- 🧠 **A-Level Computer Science NEA** – C# application with logic, data handling, and UI  
-- 🤖 **Embedded systems projects** – Arduino-based robots and timers  
-- 🛠 **Design & Technology coursework** – combining hardware and software  
-
-*(More projects coming soon)*
-
----
 
 ## 📈 What I’m Currently Learning
 
@@ -61,13 +50,6 @@ Here are some things I’ve worked on or am currently working on:
 
 ---
 
-## 🎯 Goals
-
-- Build strong foundations for university-level computer science or engineering  
-- Create well-documented, practical projects  
-- Improve code quality, structure, and efficiency  
-
----
 
 ## 📫 Get in Touch
 
